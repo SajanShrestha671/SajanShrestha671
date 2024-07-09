@@ -1,6 +1,5 @@
 # Hi there 👋
-
-I'm **Sajan**, a Software Engineer with a passion for solving problems and learning new things. I build things to help people and the community. I have a strong background that encompasses diverse aspects of Software Engineering. I'm seeking to heighten my experience towards becoming a Full Stack Software Engineer.
+I'm **Sajan**, a dedicated Software Engineer with a passion for solving complex problems and continuously learning new skills. I thrive on building innovative solutions that make a positive impact on people and the community. My strong foundation spans diverse aspects of Software Engineering, embodying the T-shaped engineering model where I have a broad understanding of various technologies and deep expertise in specific areas. I'm now on a mission to elevate my expertise and become a Full Stack Software Engineer.
 
 ## 🌱 My Current Toolbox:
 
